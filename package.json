@@ -1,0 +1,15 @@
+{
+  "name": "football-747",
+  "theme": "syntax",
+  "version": "0.1.1",
+  "description": "football747 เว็บแทงบอลออนไลน์ เว็บที่มีค่าน้ำดีมากที่สุดในตอนนี้ เข้าเดิมพันได้ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "football747",
+    "football747 เว็บแทงบอลออนไลน์ เว็บที่มีค่าน้ำดีมากที่สุดในตอนนี้ เข้าเดิมพันได้ตลอด 24 ชั่วโมง"
+  ],
+  "repository": "https://github.com/casino747/football-747",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
